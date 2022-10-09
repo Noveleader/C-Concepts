@@ -1,4 +1,4 @@
-//Insert the element to the beginning of the list
+//Insert the element to the beginning of the linked list
 #include<stdio.h>
 #include<stdlib.h>
 struct Node{
