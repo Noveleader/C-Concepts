@@ -1,3 +1,4 @@
+//insert element at the nth position of the linked list 
 #include <stdlib.h>
 #include <stdio.h>
 struct Node{
